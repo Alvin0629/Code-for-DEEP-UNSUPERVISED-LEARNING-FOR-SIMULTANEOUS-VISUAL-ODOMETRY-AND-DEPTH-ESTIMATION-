@@ -1,9 +1,7 @@
-# Code-for-DEEP-UNSUPERVISED-LEARNING-FOR-SIMULTANEOUS-VISUAL-ODOMETRY-AND-DEPTH-ESTIMATION-
-Code for 2019 ICIP paper
+# Code for 2019 ICIP paper
 
 
-This code implemented the method described in the following paper:
-## 
+## This code implemented the method described in the following paper:
 
 Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
 
@@ -29,4 +27,5 @@ python3 run_inference.py --pretrained pretrained_model/Dispnet --dataset-dir tes
 \\
 \\
 
-The implementation is borrowed from SfMLearner paper.
+
+* The implementation is borrowed from SfMLearner paper.
