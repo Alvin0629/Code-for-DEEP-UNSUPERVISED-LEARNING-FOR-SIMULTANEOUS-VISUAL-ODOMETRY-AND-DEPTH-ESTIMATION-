@@ -1,7 +1,7 @@
 # Code for 2019 ICIP paper
 
 
-## This code implemented the method described in the following paper:
+This code implemented the method described in the following paper:
 
 ## Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
 
