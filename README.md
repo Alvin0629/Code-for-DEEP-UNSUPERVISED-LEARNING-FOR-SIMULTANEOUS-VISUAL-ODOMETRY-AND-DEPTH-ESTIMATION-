@@ -3,11 +3,11 @@
 
 ## This code implemented the method described in the following paper:
 
-Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
+## Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
 
-by Yawen Lu; Guoyu Lu
+### by Yawen Lu; Guoyu Lu
 
-2019 IEEE International Conference on Image Processing (ICIP)
+### 2019 IEEE International Conference on Image Processing (ICIP)
 ## 
 
 
@@ -24,8 +24,6 @@ To infer the network, use:
 python3 run_inference.py --pretrained pretrained_model/Dispnet --dataset-dir test_dir/ --output-dir output_dir/
 ```
 
-\\
-\\
 
 
 * The implementation is borrowed from SfMLearner paper.
