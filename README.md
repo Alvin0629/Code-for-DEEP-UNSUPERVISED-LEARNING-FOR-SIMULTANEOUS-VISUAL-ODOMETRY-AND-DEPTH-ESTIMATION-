@@ -5,10 +5,10 @@
 
 ## Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
 
-### by Yawen Lu; Guoyu Lu
+#### by Yawen Lu; Guoyu Lu
 
-### 2019 IEEE International Conference on Image Processing (ICIP)
-## 
+#### 2019 IEEE International Conference on Image Processing (ICIP)
+
 
 
 To train the network, use:
@@ -26,4 +26,4 @@ python3 run_inference.py --pretrained pretrained_model/Dispnet --dataset-dir tes
 
 
 
-* The implementation is borrowed from SfMLearner paper.
+The implementation is borrowed from SfMLearner paper.
