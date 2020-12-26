@@ -24,7 +24,7 @@ To infer the network, use:
 python3 run_inference.py --pretrained pretrained_model/Dispnet --dataset-dir test_dir/ --output-dir output_dir/
 ```
 
-If you summarize relevant works or refer to our code, please cite
+If you summarize relevant works or refer to the code, please cite:
 ```
 @inproceedings{lu2019deep,
   title={Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation},
@@ -37,4 +37,4 @@ If you summarize relevant works or refer to our code, please cite
 ```
 
 
-The implementation is borrowed from SfMLearner paper.
+This implementation is borrowed from SfMLearner paper.
