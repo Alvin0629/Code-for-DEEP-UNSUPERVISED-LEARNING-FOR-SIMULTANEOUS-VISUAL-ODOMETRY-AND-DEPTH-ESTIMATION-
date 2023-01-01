@@ -5,8 +5,6 @@ This code implemented the method described in the following paper:
 
 ## Deep Unsupervised Learning for Simultaneous Visual Odometry and Depth Estimation.
 
-#### by Yawen Lu; Guoyu Lu
-
 #### 2019 IEEE International Conference on Image Processing (ICIP)
 
 
